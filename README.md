@@ -1,4 +1,4 @@
-# Mac Internal Disk Icon (.PNG)
+# Mac Internal Disk Icon (PNG)
 - [x] `Create Disk Icon:`
 ```bash
 sips -s format png /System/Library/Extensions/IOStorageFamily.kext/Contents/Resources/Internal.icns --out $HOME/Desktop/DiskInternal.png
